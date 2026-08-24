@@ -249,20 +249,21 @@ a {
 .hero-brand {
   margin: 0 0 0.85rem;
   font-family: var(--font-display);
-  font-size: clamp(1.65rem, 3.4vw, 2.35rem);
+  font-size: clamp(2.35rem, 6vw, 4.25rem);
   font-weight: 800;
-  letter-spacing: -0.03em;
-  line-height: 1.05;
+  letter-spacing: -0.04em;
+  line-height: 0.98;
 }
 
 .hero-headline {
   margin: 0 0 1rem;
-  max-width: 14ch;
+  max-width: 22ch;
   font-family: var(--font-display);
-  font-size: clamp(2.15rem, 5.4vw, 3.75rem);
-  font-weight: 700;
-  letter-spacing: -0.035em;
-  line-height: 1.05;
+  font-size: clamp(1.45rem, 2.8vw, 2.05rem);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
+  color: rgba(255, 255, 255, 0.94);
 }
 
 .hero-support {
