@@ -1,0 +1,14 @@
+category,sku_or_name,supplier,grade,core_type,thickness_mm,wear_layer_mil,waterproof,coverage_sf_per_carton,pallet_cost_per_sf,truckload_cost_per_sf,freight_per_sf_to_hurst,landed_cost_per_sf,trim_cost_per_lf,adhesive_underlay_per_sf,labor_per_sf,total_job_cost_per_sf,target_gross_margin_pct,min_installed_sell_per_sf,promo_installed_sell_per_sf,retail_package_name,warranty_notes,reorder_lead_days,in_stock_qty_sf,notes
+LVP_SPC,Example Oak 7x48,Ultimate Floors,First,SPC,5.5,20,Yes,23.64,1.35,1.15,0.12,1.27,2.50,0.15,1.75,3.17,40,5.28,4.99,Waterproof LVP Installed Package,25yr residential,7,0,Replace with real quote
+LVP_SPC,Example Grey 7x48,Ultimate Floors,First,SPC,5.5,12,Yes,23.64,1.15,0.99,0.12,1.11,2.25,0.15,1.75,3.01,40,5.02,4.79,Value Waterproof LVP Package,15yr residential,7,0,
+Carpet,Builder Plush 40oz,Redco / Mill,First,n/a,n/a,n/a,No,12_per_yd,0.00,0.00,0.00,0.00,0.00,0.20,1.25,0.00,35,0.00,0.00,Carpet Installed Package,fill mill warranty,14,0,Enter cost per SY then convert to SF (÷9)
+Carpet_Tile,Commercial 24x24,Engineered Floors,First,n/a,n/a,n/a,No,0,0.00,0.00,0.00,0.00,0.00,0.25,1.50,0.00,30,0.00,0.00,Commercial Carpet Tile Package,,21,0,
+Hardwood_Engineered,Example Oak 5in,Redco / Mill,First,Engineered,12,n/a,No,0,0.00,0.00,0.00,0.00,0.00,0.40,3.50,0.00,40,0.00,0.00,Engineered Hardwood Installed,,21,0,
+Tile,Porcelain 12x24,Redco,First,n/a,n/a,n/a,n/a,0,0.00,0.00,0.00,0.00,0.00,1.25,4.50,0.00,40,0.00,0.00,Tile Installed Package,,14,0,
+LVP_Seconds,Warehouse Special Mix,Silvaris,B-Grade / Surplus,SPC,5,12,Yes,0,0.00,0.00,0.00,0.00,0.00,0.15,1.75,0.00,45,0.00,0.00,Warehouse Special — Limited Lot,Labor only or short materials — disclose,0,0,Do not sell as mill-warranted first quality
+Windows_Vinyl,DH / Slider package avg,NT Window,First,Vinyl,n/a,n/a,n/a,n/a,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,35,0.00,0.00,Window Replacement Package,Lifetime lifetime frame typical — confirm,21,0,Price per opening not per SF; use windows tab logic in guide
+Windows_Vinyl,Value DH package avg,Earthwise / P-Tek,First,Vinyl,n/a,n/a,n/a,n/a,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,35,0.00,0.00,Affordable Window Package,,21,0,
+Cabinets_Custom,Stock box + custom faces,Your wood crew,Custom,n/a,n/a,n/a,n/a,n/a,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,40,0.00,0.00,Custom Cabinets Package,,28,0,Use job quote sheet; margin on labor+materials
+Shower_Custom,Tile shower package,Your shower crew,Custom,n/a,n/a,n/a,n/a,n/a,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,40,0.00,0.00,Custom Shower Package,,21,0,
+Fireplace_Surround,Affordable fireplace package,Your crew,Custom,n/a,n/a,n/a,n/a,n/a,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,40,0.00,0.00,Fireplace Upgrade Package,,21,0,
+Roofing_TPO,Commercial TPO system,Metroplex suppliers,First,TPO,n/a,n/a,n/a,n/a,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,25,0.00,0.00,Commercial TPO Bid,,14,0,Bid travel separately; margin by job type
