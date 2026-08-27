@@ -1,160 +1,139 @@
 # Weekly Sales Contact List — Texas
-## Who to call by job size and radius
+## Focus: installs + selling material to contractors (not repairs)
 
-**Radius rules (your model)**
-- **30–45 min from Hurst** → repairs, small sq ft, paint touch-ups, small carpet/LVP, single showers, 1–5 windows  
-- **~90 min** → full-home floors, cabinets, multi-room remodel, whole-home windows, big residences  
-- **Anywhere in Texas** → commercial roofing / flat metal, churches, schools, warehouses, large commercial flooring  
+**What you sell now**
+1. **Installed jobs** — flooring, cabinets, showers, windows, paint packages, commercial roofing  
+2. **Material wholesale to contractors** — LVP/SPC, carpet, tile, trim from your stock/truckload accounts  
 
-**Rule:** Call decision-makers who **repeat-buy**, not one-off homeowners (ads handle homeowners).
+**What you do *not* chase**
+- Handyman repairs, patch jobs, tiny sq ft, make-ready “fixes”  
+- Those dilute crews and don’t match surplus/truckload economics  
+
+**Radius**
+- **Core installs (~60–90 min):** full installs where crews stay efficient  
+- **Anywhere:** commercial roofing + large commercial / church / school flooring installs  
+- Material sales: ship or pickup from Hurst / Houston DC partners — radius is less important than volume  
 
 ---
 
-## Tier A — Call / text every week (cash-flow + referrals)
+## Tier A — Call every week (install pipeline + material buyers)
 
-These people feed small jobs close-in and medium jobs inside ~90 minutes.
-
-| Who (title / role) | Why they matter | What you offer | Radius |
+| Who | Why | What you pitch | Brand |
 |---|---|---|---|
-| **Apartment / multifamily property managers** (on-site + regional) | Make-readies, unit turns, carpet/LVP, paint | Fast turn pricing, 48–72 hr response | 30–45 min core; stretch for portfolios |
-| **Residential property managers** (SFH rentals) | Floors, paint, small repairs between tenants | Fixed make-ready packages | 30–45 min |
-| **House flippers / real estate investors** | Volume LVP, paint, showers, windows | Investor price book + speed | 30–45 / 90 min |
-| **Realtors (listing agents + team leads)** | Pre-list floors/paint; buyer remodel referrals | “Listing ready in 7–10 days” | 30–45 / 90 min |
-| **Insurance adjusters / restoration GCs** (water, fire, storm) | Flooring, cabinets, paint after claims | Preferred-vendor response + docs | 30–45 / 90 min |
-| **Independent GCs / remodelers** (no flooring crew) | Sub out floors, showers, cabinets, windows | Reliable sub + fair package price | 90 min |
-| **Cabinet shops / kitchen designers** (without install crews) | Countertop/floor/shower add-ons | Trade install partnership | 90 min |
-| **Window dealers without install** / glass shops | Overflow install | Install capacity | 90 min |
+| **Flooring installers / one-man & small crews without buying power** | Need cheap reliable LVP/carpet + sometimes overflow install | Dealer/contractor price sheet + same-week pickup | iStone wholesale |
+| **Remodel GCs** (kitchens/baths) | Buy floors/cabinets/showers or sub install | Package install *or* material-only | iStone |
+| **Custom home builders — supers & purchasing** | Spec floors, cabinets, windows | Builder SKU board (3–5 stock colors) + install scheduling | iStone / Windows |
+| **Production / multifamily GCs** | Volume material + unit installs | Truckload pricing, narrow SKUs | iStone |
+| **Cabinet shops / millwork** | Need flooring/counter partners; may buy sheet goods concepts | Trade install or material referral loop | iStone |
+| **Tile / shower setters** | Need waterproof LVP adjacent rooms; material partners | Material account + optional install | iStone |
+| **Painting contractors** | Bundle floors while empty house; buy nothing but refer | Reciprocal referral + your install | iStone |
+| **Window installers / dealers needing product** | Buy vinyl units or sub labor | Factory-direct window pricing | DFW Windows Plus |
 
-### DFW channels to join / use for Tier A
-- **Apartment Association of Greater Dallas (AAGD)** — supplier membership + IRO directory + trade show  
-- **Tarrant County Apartment Association** — same for Fort Worth side  
-- Property-manager **vendor lists** (apply as flooring / paint / windows / roofing vendor)  
-- Local investor meetups / REIA groups / Facebook investor groups (vendor introduction, not spam)  
-- Top-producing realtor teams in Hurst, Colleyville, Keller, Southlake, NRH, Bedford, Euless, Grapevine, Arlington  
-
-**Weekly cadence (Tier A):** 25–40 touches  
-- 10 property managers  
-- 5 investors/flippers  
-- 5 realtors  
-- 5 GCs / remodelers  
-- Rest: adjusters, designers, past clients asking for referrals  
+**Weekly cadence (Tier A):** 30–40 touches  
+Goal: open **contractor accounts** (material) and book **install measures**.
 
 ---
 
-## Tier B — Call every week / biweekly (bigger tickets inside ~90 min)
+## Tier B — Bigger installs (~90 min + large residential)
 
-| Who | Why | What you sell | Radius |
-|---|---|---|---|
-| **Custom home builders** (purchasing / superintendent) | Spec floors, cabinets, showers, windows | Builder pricing + schedule reliability | 90 min |
-| **Production / semi-custom builder PMs** | Unit volume | Narrow SKU package (your stock LVP) | 90 min |
-| **Church administrators / facility directors** (mid-size campuses) | Sanctuary floors, classrooms, showers in gyms, windows | Church package + after-hours work | 90 min → anywhere if large |
-| **Private school facility managers** | Summer floor/paint/window projects | Summer bid calendar | 90 min |
-| **HOA / property association managers** (clubhouses, corridors) | Common-area floors/paint | Maintenance + capital projects | 90 min |
-| **Interior designers** (residential) | High-end floors, cabinets, showers, fireplaces | White-glove install | 90 min |
-| **Senior living / ALF maintenance directors** | Corridor carpet, LVT, refreshes | Night/weekend crews | 90 min |
-
-**Weekly cadence (Tier B):** 10–15 touches  
-Focus on people with a **project in the next 90 days**, not cold “just checking in” forever.
+| Who | Why | Pitch |
+|---|---|---|
+| **High-end remodel GCs** | Large homes, churches’ interiors | Full install: floors + cabinets + showers + fireplaces |
+| **Interior designers / design-build firms** | Spec and need reliable install | Trade pricing + white-glove install |
+| **Church / school facility directors** | Large floor installs (not repair tickets) | Summer / capital install bids |
+| **Senior living / hospitality PMs** (CapEx, not work orders) | Corridor/room renovations | Installed packages + volume material |
+| **Realtor teams** only if they send **full install** remodel leads | Pre-list full floor replacements | Installed package pricing — skip punch-list work |
 
 ---
 
-## Tier C — Roofing + large commercial (anywhere in Texas) — call every week
+## Tier C — Commercial roofing + large installs (Texas-wide)
 
-These are the people who can fund the path to big take-home.
+| Who | Why | Brand |
+|---|---|---|
+| **Commercial GCs** | Sub roofing / large flooring | Metroplex + iStone |
+| **Asset / facility managers** (warehouses, retail, industrial) | Roof replacement & coatings | Metroplex Flat Metal |
+| **Roofing consultants / bid-list coordinators** | Spec’d projects | Metroplex |
+| **Church & ISD facility directors** | Large roof + floor capital projects | Metroplex + iStone |
+| **National / regional roll-up GCs** with Texas jobs | Material + install capacity | Both |
 
-| Who | Why | Brand to lead with | Notes |
-|---|---|---|---|
-| **Commercial property / asset managers** | Warehouse, retail, office roofs | **Metroplex Flat Metal** | Offer free roof assessment + photo report |
-| **Facility managers (industrial / logistics)** | Flat roofs, leaks, TPO/metal | Metroplex | Emergency leak + maintenance contracts |
-| **Church facility managers (large campuses)** | Roof + big flooring | Metroplex + iStone | NACFM DFW fellowship is a real network |
-| **ISD / private school facility / maintenance directors** | Summer roof + floor programs | Metroplex + iStone | Plan Jan–Mar for summer work |
-| **General contractors (commercial)** | Sub roofing / flooring | Metroplex + iStone | Bonding/insurance ready |
-| **Roofing consultants / consultants’ lists** | Spec’d projects | Metroplex | Get on bid lists |
-| **Property management firms with Texas portfolios** | Multi-site roofs | Metroplex | One relationship → many buildings |
-| **Retail / restaurant regional facility managers** | Leak response + remodels | Both | Speed wins |
-| **Nonprofit / municipal facility contacts** (where allowed) | Bid opportunities | Metroplex | Watch procurement portals |
-
-### Texas channels for Tier C
-- **NACFM** (National Association of Church Facilities Managers) — DFW fellowship / business partner tables  
-- **BOMA** / building owner-manager groups (Dallas & Fort Worth)  
-- **IFMA** facility manager networks  
-- Commercial CRE brokers who advise owners on CapEx (introduce as roofing + flooring CapEx partner)  
-- Manufacturer bid lists once you have TPO/metal certifications  
-
-**Weekly cadence (Tier C):** 15–25 touches  
-- 10 facility / asset managers  
-- 5 church / school facility people  
-- 5 commercial GCs or consultants  
-Goal: **2–3 site assessments booked per week**, not just “conversations.”
+**Weekly cadence (Tier C):** 15–25 touches → book **assessments and install bids**, not maintenance tickets.
 
 ---
 
-## Exact “main people” titles (say this when you call)
+## Exact titles to ask for
 
-Ask for / LinkedIn search:
+**Material sales**
+1. Owner / Operator (small flooring or remodel company)  
+2. Purchasing Manager / Estimator  
+3. Superintendent / Project Manager  
+4. Warehouse / material buyer  
 
-1. Property Manager / Community Manager  
-2. Regional Property Manager / Portfolio Manager  
-3. Maintenance Supervisor / Make-Ready Supervisor  
-4. Facility Director / Facilities Manager  
-5. Business Administrator (churches)  
-6. Facilities / Operations Director (schools, nonprofits)  
-7. Superintendent / Project Manager (builders & GCs)  
-8. Purchasing Manager / Estimator (builders)  
-9. Asset Manager / Director of Facilities (commercial CRE)  
-10. Listing Team Lead / Broker-Owner (realtor teams)  
-11. Investor / Acquisitions Manager (flippers & landlords)  
-12. Claims Manager / Preferred Vendor Coordinator (restoration)
+**Install sales**
+5. GC Owner  
+6. Builder Purchasing / Selections Manager  
+7. Facility Director (capital projects only)  
+8. Design-build Principal  
 
 ---
 
-## Weekly schedule (simple)
+## Weekly schedule
 
 | Day | Focus | Target |
 |---|---|---|
-| **Monday** | Multifamily + SFH property managers (30–45 min cities) | 10 calls + 5 drop-bys |
-| **Tuesday** | Investors + realtors | 10 calls; 2 coffee/lunch |
-| **Wednesday** | GCs, builders, designers | 8–10 calls |
-| **Thursday** | Commercial roofing / churches / schools / warehouses (Texas-wide) | 15 calls; book assessments |
-| **Friday** | Follow-ups + past clients + Google review asks + referral asks | Clear pipeline |
-
-**Cities to prioritize for 30–45 min small jobs (from Hurst):**  
-Hurst, Bedford, Euless, NRH, Richland Hills, Keller, Colleyville, Southlake, Grapevine, Watauga, Haltom City, Saginaw, Arlington (north), Irving (west edge), Fort Worth (northeast).
-
-**Stretch to ~90 min for bigger jobs:**  
-Dallas, Plano, Frisco, Denton, Lewisville, Flower Mound, Mansfield, Burleson, Weatherford, Rockwall (select), McKinney (select).
-
-**Anywhere:** any Texas warehouse, church campus, school, retail center for roofing / large flooring.
+| **Monday** | Small flooring crews + remodel GCs (open material accounts) | 12 calls; send price sheet |
+| **Tuesday** | Builders (purchasing + supers) | 8–10 calls; offer SKU board |
+| **Wednesday** | Designers, cabinet shops, window dealers | 8 calls; partnership one-pager |
+| **Thursday** | Commercial roofing + large flooring (Texas-wide) | 15 calls; book assessments |
+| **Friday** | Follow-ups on quotes, credit apps, deposits | Clear pipeline |
 
 ---
 
-## What to say (15-second opener)
+## Contractor material-sales offer (keep it simple)
 
-**Property manager / investor:**  
-“Hi, this is ___ with iStone Floors in Hurst. We do fast make-ready floors, paint, and showers at contractor pricing inside [city]. Who handles vendor approval for turns?”
+One-pager / PDF:
+- **3–5 in-stock LVP colors** with contractor $/sf (pickup vs delivered)  
+- Matching trim pricing  
+- Truckload / pallet breaks  
+- Optional: “We can install for your customer under your name or ours”  
+- Terms: COD → Net-15/30 after 3 paid orders  
+- Hours for pickup at Hurst  
 
-**Realtor:**  
-“We get listings show-ready with waterproof LVP and paint in about a week. Who on your team wants a preferred-vendor sheet?”
-
-**Church / school facility:**  
-“We handle flooring and commercial flat/metal roofing for campuses. Can I send a one-page capabilities sheet and get on your bid list?”
-
-**Commercial facility / asset manager:**  
-“Metroplex Flat Metal — free roof assessment with photos for your [warehouse/center]. Who owns CapEx for roofing?”
+**Do not** lead with repairs. Lead with:  
+“Contractor pricing on in-stock waterproof LVP — pickup this week — or we install for your jobs.”
 
 ---
 
-## Tracking (keep it dumb and weekly)
+## Openers (15 seconds)
 
-One sheet with columns:
+**Flooring contractor / GC:**  
+“We stock waterproof LVP at contractor pricing in Hurst and can truckload. Want the price sheet and sample set? We also install if you need a crew.”
 
-`Name | Company | Title | Phone | City | Tier A/B/C | Last contact | Next step | Job type | $ estimate`
+**Builder purchasing:**  
+“We run a short builder board — three proven colors in stock — installed or material-only. Who handles flooring selections?”
 
-**Weekly win metrics (not vanity):**
-- Vendor applications submitted  
-- Assessments / measures booked  
-- Bids out  
-- Jobs sold  
-- Referral partners who sent a lead  
+**Commercial facility / GC:**  
+“Metroplex Flat Metal — commercial flat and metal. We also do large flooring installs. Can we get on your bid list and schedule a roof assessment?”
 
-If a contact hasn’t produced a bid or referral in 8 weeks, drop weekly calls to monthly and replace with a new name.
+---
+
+## Networks worth joining (for this model)
+
+- Builder breakfasts / NAHB local (Fort Worth & Dallas)  
+- Remodelers Council / NARI local chapters  
+- AGC / commercial GC mixers (for roofing + large floors)  
+- NACFM DFW (churches — capital installs/roofs)  
+- BOMA / IFMA (facility CapEx, not work orders)  
+
+Skip apartment make-ready vendor mills unless they buy **full unit floor installs** or **bulk material**.
+
+---
+
+## Tracking metrics that matter
+
+- Contractor accounts opened (material)  
+- Sq ft / $ material sold this week  
+- Install bids out / installs sold  
+- Commercial roof assessments booked  
+- Repeat contractor buyers (bought 2+ times)
+
+If a contact only wants repair/punch work, park them — don’t put them on the weekly list.
