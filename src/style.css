@@ -668,6 +668,10 @@ a {
   gap: 1rem;
 }
 
+.estimate-form[hidden] {
+  display: none !important;
+}
+
 .form-row {
   display: grid;
   gap: 1rem;
