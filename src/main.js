@@ -34,6 +34,24 @@ if ("IntersectionObserver" in window) {
   revealEls.forEach((el) => el.classList.add("is-visible"));
 }
 
+const setFormEnabled = (form, enabled) => {
+  if (!(form instanceof HTMLFormElement)) return;
+  form.hidden = !enabled;
+  form.querySelectorAll("input, select, textarea, button").forEach((el) => {
+    if (el instanceof HTMLElement) {
+      if (enabled) {
+        el.removeAttribute("disabled");
+      } else {
+        el.setAttribute("disabled", "");
+      }
+    }
+  });
+  const success = form.querySelector("[data-form-success]");
+  if (success instanceof HTMLElement) {
+    success.hidden = true;
+  }
+};
+
 const setPath = (path) => {
   const isCommercial = path === "commercial";
 
@@ -43,12 +61,8 @@ const setPath = (path) => {
     btn.setAttribute("aria-selected", active ? "true" : "false");
   });
 
-  if (residentialForm instanceof HTMLElement) {
-    residentialForm.hidden = isCommercial;
-  }
-  if (commercialForm instanceof HTMLElement) {
-    commercialForm.hidden = !isCommercial;
-  }
+  setFormEnabled(residentialForm, !isCommercial);
+  setFormEnabled(commercialForm, isCommercial);
 };
 
 pathButtons.forEach((btn) => {
@@ -119,6 +133,6 @@ wireForm(commercialForm);
 const hash = window.location.hash.replace("#", "");
 if (hash === "commercial-form" || hash === "commercial") {
   setPath("commercial");
-} else if (hash === "residential-form" || hash === "residential") {
+} else {
   setPath("residential");
 }
