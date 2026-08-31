@@ -1,0 +1,15 @@
+{
+  "name": "istonefloors-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Conversion landing page and growth plan for iStone Floors (DFW)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.1.0"
+  }
+}
